@@ -2,13 +2,13 @@
 
 Rattaporn Leenaracharoongruang  ID: 613021020-4
 
-##Python script + main function
+## Python script + main function
   Python script : [code](https://github.com/Kggzzz/AIPrototype2022_1/blob/main/python101.py)
 
-##Argparse subprocess
+## Argparse subprocess
   Test argparse subprocess : [code](https://github.com/Kggzzz/AIPrototype2022_1/blob/main/testsubprocess.py)
   
-##Flask: Web App + Web Service + API + Requests + use Pandas as Database + Cookie 
+## Flask: Web App + Web Service + API + Requests + use Pandas as Database + Cookie 
   Test flask : [code](https://github.com/Kggzzz/AIPrototype2022_1/blob/main/testflask.py)
   ในนี้จะรวม
       1. Web app,Web Service : GET and POST (ทำการทำลองลงชื่อเข้าใช้ระบบ)
@@ -18,10 +18,10 @@ Rattaporn Leenaracharoongruang  ID: 613021020-4
   Requests : [code](https://github.com/Kggzzz/AIPrototype2022_1/blob/main/postrequests.py)
   Data base : [code](https://github.com/Kggzzz/AIPrototype2022_1/blob/main/db.csv)
   
-##Cloud DB & Cloud AI
+## Cloud DB & Cloud AI
   Test Cloud DB & Cloud AI : [code](https://github.com/Kggzzz/AIPrototype2022_1/blob/main/Cloud_DB_and_AI.ipynb)
 
-##การสร้าง Neural Network ด้วย Tensorflow : [code](https://github.com/Kggzzz/AIPrototype2022_1/blob/main/Tensorflow(network).ipynb)
+## การสร้าง Neural Network ด้วย Tensorflow : [code](https://github.com/Kggzzz/AIPrototype2022_1/blob/main/Tensorflow(network).ipynb)
   1. Tensorflow Functional API
         ประกอบไปด้วย 1) Sequential ง่าย แต่สร้างได้แต่แบบไม่ซับซ้อน (วิ่งเป็นเส้นตรง)
                     2) Funtional  ยากขึ้นมาอีกนิด แต่สามารถปรับเส้นทาง,network ให้มีความซับซ้อนได้มากขึ้น
@@ -30,7 +30,7 @@ Rattaporn Leenaracharoongruang  ID: 613021020-4
   3. Implement TF flow from directory
 
 ## Code คำสั่งต่างๆ
-  ###Install ต่างๆ
+  ### Install ต่างๆ
   - conda create -n testpy3.7 python=3.7 (สร้าง invoroment)
   - pip install pandas 
   - conda install jupyter
@@ -39,7 +39,7 @@ Rattaporn Leenaracharoongruang  ID: 613021020-4
   - python -m pip install pandas
   - pip install opencv-python
   - pip install Pillow
-  ###สร้างในเครื่อง
+  ### สร้างในเครื่อง
   - conda install -c  anaconda git
   - cd C:\Users\User\Desktop\Project
   - git clone https://github.com/Kggzzz/AIPrototype2022_1.git
