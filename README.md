@@ -46,8 +46,8 @@ Rattaporn Leenaracharoongruang  ID: 613021020-4
   - cd .\AIPrototype2022\
   - git add python1.py
   - git commit -m "Test"
-  - git config --global user.name "waraporn19"
-  - git config --global user.email "warapoen19@example.com"
+  - git config --global user.name "Kggzzz"
+  - git config --global user.email "Rattaporn_le@example.com"
   - git commit -m "Test"
   - git push
   - git status
