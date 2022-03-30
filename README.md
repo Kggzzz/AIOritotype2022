@@ -9,14 +9,14 @@ Rattaporn Leenaracharoongruang  ID: 613021020-4
   Test argparse subprocess : [code](https://github.com/Kggzzz/AIPrototype2022_1/blob/main/testsubprocess.py)
   
 ## Flask: Web App + Web Service + API + Requests + use Pandas as Database + Cookie 
-  Test flask : [code](https://github.com/Kggzzz/AIPrototype2022_1/blob/main/testflask.py)
+  1. Test flask : [code](https://github.com/Kggzzz/AIPrototype2022_1/blob/main/testflask.py)
   ในนี้จะรวม
       1. Web app,Web Service : GET and POST (ทำการทำลองลงชื่อเข้าใช้ระบบ)
       2. API (ใน code มีการเชื่อมกับตัว request ที่ไว้ยิง input เข้าไปใน API ด้วย)
       3. Cookie 
-  HTML : [code](https://github.com/Kggzzz/AIPrototype2022_1/blob/main/templates/home.html)
-  Requests : [code](https://github.com/Kggzzz/AIPrototype2022_1/blob/main/postrequests.py)
-  Data base : [code](https://github.com/Kggzzz/AIPrototype2022_1/blob/main/db.csv)
+  2. HTML : [code](https://github.com/Kggzzz/AIPrototype2022_1/blob/main/templates/home.html)
+  3. Requests : [code](https://github.com/Kggzzz/AIPrototype2022_1/blob/main/postrequests.py)
+  4. Data base : [code](https://github.com/Kggzzz/AIPrototype2022_1/blob/main/db.csv)
   
 ## Cloud DB & Cloud AI
   Test Cloud DB & Cloud AI : [code](https://github.com/Kggzzz/AIPrototype2022_1/blob/main/Cloud_DB_and_AI.ipynb)
