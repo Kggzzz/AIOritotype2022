@@ -1,4 +1,4 @@
-# AIOritotype2022
+# AIPrototype2022
 
 Rattaporn Leenaracharoongruang  ID: 613021020-4
 
